@@ -1,0 +1,17 @@
+# Go
+bin/
+dist/
+*.exe
+*.test
+*.out
+coverage*.txt
+
+# ANTLR
+*.interp
+*.tokens
+*.class
+/.antlr/
+
+# Editors
+.vscode/
+.idea/
